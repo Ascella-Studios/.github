@@ -1,12 +1,13 @@
-## Hi there 👋
+# Ascella Studios
 
-<!--
+**Apps That Elevate**
 
-**Here are some ideas to get you started:**
+## About
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Ascella Studios designs and builds apps that make a difference—whether it's simplifying your day, solving a real problem, or helping you do more with less.
+
+## Connect
+
+- **X/Twitter:** [@ascellastudios](https://twitter.com/ascellastudios)
+- **LinkedIn:** [Ascella Studios](https://linkedin.com/company/ascellastudios)
+- **Founded by:** [@jaredklopstein](https://github.com/jaredklopstein)
